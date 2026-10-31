@@ -1,0 +1,13 @@
+[
+  "backend/tests/test_assets.py::test_assets_disconnected_without_angel_credentials",
+  "backend/tests/test_auth.py::test_otp_setup_state_when_twilio_missing",
+  "backend/tests/test_auth.py::test_password_is_hashed",
+  "backend/tests/test_auth.py::test_register_login_me_and_logout",
+  "backend/tests/test_coach.py::test_coach_endpoint_labels_fallback",
+  "backend/tests/test_coach.py::test_fallback_answers_the_question_not_one_keyword",
+  "backend/tests/test_coach.py::test_language_detection",
+  "backend/tests/test_money.py::test_profile_budget_overview_sip",
+  "backend/tests/test_sip.py::test_bundle_includes_zero_and_disclaimer",
+  "backend/tests/test_sip.py::test_positive_return_exceeds_contributions",
+  "backend/tests/test_sip.py::test_zero_return_is_contributions_only"
+]
